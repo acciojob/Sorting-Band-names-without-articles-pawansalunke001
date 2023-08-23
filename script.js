@@ -1,4 +1,3 @@
-//your code here
 let bandNames = ['The Beatles', 'Green Day', 'The Rolling Stones', 'Aerosmith', 'Led Zeppelin'];
 
 // Remove articles ('a', 'an', 'the') from band names
